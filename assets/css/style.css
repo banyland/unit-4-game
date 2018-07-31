@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/backgroundimage.jpg");
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name {
+    padding-top: 20px;
+    }
+
+.row {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 65px;
+    text-shadow: 1px 2px black;
+    padding-bottom: 20px;
+}
+
+.clickme {
+    height: 125px;
+    width: 125px;
+}
+
+.rowResults {
+    color: white;
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.totalScore {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px white;
+    text-align: center;
+}
+
+.random-number {
+    text-align: center;
+    color: black;
+    text-shadow: 1px 1px white;
+
+}
